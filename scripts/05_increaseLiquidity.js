@@ -82,7 +82,7 @@ async function main() {
 }
 
 /*
-  npx hardhat run --network localhost scripts/04_addLiquidity.js
+  npx hardhat run --network localhost scripts/05_increaseLiquidity.js
 */
 
 main()

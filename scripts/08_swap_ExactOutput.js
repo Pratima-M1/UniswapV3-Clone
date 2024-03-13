@@ -106,7 +106,7 @@ async function main() {
 }
 
 /*
-  npx hardhat run --network localhost scripts/04_addLiquidity.js
+  npx hardhat run --network localhost scripts/08_swap_ExactOutput.js
 */
 
 main()
